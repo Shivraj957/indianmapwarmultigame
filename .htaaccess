@@ -1,1 +1,2 @@
-RewriteEngine On RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.html [NC] RewriteRule ^ %1 [R=301,L]
+### re-direct index.html to root / ###RewriteCond %{THE REQUEST} ^/*/index.html
+HTTP/RewriteRule ^(.*)index.html$ /$ /$1 [R=301,L]
