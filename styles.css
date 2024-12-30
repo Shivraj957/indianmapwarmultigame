@@ -21,6 +21,7 @@ form {
 }
 #Username {
     height: 20px;
+    width: 20rem
     font-size: 1rem;
 }
 select optgroup {
