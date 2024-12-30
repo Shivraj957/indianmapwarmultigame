@@ -14,10 +14,14 @@ h2 {
     color: red;
 }
 form {
-    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: coloumn;
+    gap: 1rem;
 }
 #Username {
     height: 20px;
+    font-size: 1rem;
 }
 select optgroup {
     font-family: 'Roboto';
