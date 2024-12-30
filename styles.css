@@ -24,7 +24,15 @@ form {
     width: 20rem
     font-size: 1rem;
 }
+select {
+    height: 20px
+    width: 27rem
+}
+select option {
+    font-family: 'Roboto';
+    font-size: 1rem
+}
 select optgroup {
     font-family: 'Roboto';
-    font-size: 14px;
+    font-size: 1rem;
 }
