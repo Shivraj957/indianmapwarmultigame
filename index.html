@@ -6,7 +6,7 @@
 <body>
     <h1>Indian Map War Multigame</h1>
     <h2>Enter Your Username and Select Your Region</h2>
-    <form action="action_page.php">
+    <form>
         <input type="text" id="Username" name="Username" placeholder="Username" autocomplete="on" required>
         <select id="Region" name="Region" autocomplete="on" required>
             <option value="0" selected="selected" disabled>Select Your Region</option>
@@ -56,6 +56,6 @@
             <option value="PK">Pakistan</option>
             <option value="LK">Sri Lanka</option>
         </select>
-        <input type="submit" name="Sumbit1" id="Submit1" value="Continue">
+        <input type="submit" name="Sumbit1" id="Submit1" value="Continue" onclick="location.href='page2.html'">
     </form>
 </body>
