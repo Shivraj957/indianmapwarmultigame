@@ -13,6 +13,9 @@ h2 {
     text-align: center;
     color: red;
 }
+form {
+    text-align: center;
+}
 select optgroup {
     font-family: 'Roboto';
     font-size: 13px
