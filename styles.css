@@ -13,7 +13,6 @@ h2 {
     text-align: center;
     color: red;
 }
-form {
+select optgroup {
     font-family: 'Roboto';
-    text-align: center;
 }
