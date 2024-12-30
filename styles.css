@@ -16,7 +16,7 @@ h2 {
 form {
     align-items: center;
     display: flex;
-    flex-direction: coloumn;
+    flex-direction: column;
     gap: 1rem;
 }
 #Username {
