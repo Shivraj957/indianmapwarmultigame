@@ -16,6 +16,9 @@ h2 {
 form {
     text-align: center;
 }
+#Username {
+    height: 20px;
+}
 select optgroup {
     font-family: 'Roboto';
     font-size: 14px;
