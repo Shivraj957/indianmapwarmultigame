@@ -1,3 +1,5 @@
+#remove html file extension https://shivraj957.github.io/indianmapwarmultigame/enter-your-username-and-select-your-region.html
+# to https://shivraj957.github.io/indianmapwarmultigame/enter-your-username-and-select-your-region
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
