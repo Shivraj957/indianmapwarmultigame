@@ -29,11 +29,12 @@ form {
 select {
     height: 20px;
     width: 27rem;
+    font-family: 'Roboto';
     font-size: 1rem;
 }
 select option {
     font-family: 'Roboto';
-    font-size: 1rem
+    font-size: 1rem;
 }
 select optgroup {
     font-family: 'Roboto';
