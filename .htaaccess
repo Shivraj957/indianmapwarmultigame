@@ -1,2 +1,0 @@
-### re-direct index.html to root / ###RewriteCond %{THE REQUEST} ^/*/index.html
-HTTP/RewriteRule ^(.*)index.html$ /$ /$1 [R=301,L]
