@@ -21,12 +21,15 @@ form {
 }
 #Username {
     height: 20px;
-    width: 20rem
+    width: 20rem;
+}
+::placeholder {
     font-size: 1rem;
 }
 select {
-    height: 20px
-    width: 27rem
+    height: 20px;
+    width: 27rem;
+    font-size: 1rem;
 }
 select option {
     font-family: 'Roboto';
