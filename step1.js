@@ -6,9 +6,9 @@ document.getElementById(Form1).addEventListener("submit"), function(event) {
     event.preventDefault();
     return;
             }
-  if (region.value === "0") 
+  if (region.value === "0") {
     alert("Please select a region!");
-    event.preventDefault(); // Prevent form submission
+    event.preventDefault();
     return;
             }
 });
