@@ -42,3 +42,6 @@ select optgroup {
     font-family: 'Roboto';
     font-size: 1rem;
 }
+button {
+    background-color: 'Red';
+}
