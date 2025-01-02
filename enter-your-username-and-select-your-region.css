@@ -27,8 +27,10 @@ form {
     font-family: 'Roboto';
     font-size: 1rem;
 }
-select {
+.Region {
     height: 20px;
+}
+select {
     font-family: 'Roboto';
     font-size: 1rem;
 }
