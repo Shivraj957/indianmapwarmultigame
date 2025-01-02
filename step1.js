@@ -1,4 +1,4 @@
-document.getElementById(Form1).addEventListener("submit", function(event) {
+document.getElementById(Form1).addEventListener("submit"), function(event) {
   const Username = document.getElementById("Username");
   const Region = document.getElementById("Region");
   if (!username.value.trim()) {
