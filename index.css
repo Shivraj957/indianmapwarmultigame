@@ -15,3 +15,10 @@ h1 {
     border: none;
     font-size: 1rem;
 }
+#Tutorial {
+    height: 20px;
+    width: 116px;
+    background-color: Red;
+    border: none;
+    font-size: 1rem;
+}
