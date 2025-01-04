@@ -9,7 +9,9 @@ h1 {
     color: white;
 }
 #StartGame {
+    height: 20px;
+    width: 164px;
     background-color: Red;
-    align-items: center;
     border: none;
+    font-size: 1reml
 }
