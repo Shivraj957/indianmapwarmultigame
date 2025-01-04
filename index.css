@@ -6,12 +6,12 @@ body {
 h1 {
     font-size: 4rem;
     text-align: center;
-    color: white;
+    color: 'White';
 }
 #StartGame {
     height: 20px;
     width: 164px;
-    background-color: Red;
+    background-color: 'Red';
     border: none;
     font-size: 1rem;
 }
