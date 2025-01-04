@@ -45,5 +45,6 @@ select optgroup {
     width: 164px;
     background-color: Red;
     border: none;
+    font-family: 'Roboto';
     font-size: 1rem;
 }
