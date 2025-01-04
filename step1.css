@@ -28,7 +28,7 @@ form {
     font-size: 1rem;
 }
 select {
-    height: 20px;
+    box-sizing: border-box;
     font-family: 'Roboto';
     font-size: 1rem;
 }
