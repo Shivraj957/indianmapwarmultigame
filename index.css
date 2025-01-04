@@ -9,16 +9,18 @@ h1 {
     color: White;
 }
 #StartGame {
-    height: 20px;
+    line-height: 20px;
     width: 164px;
     background-color: Red;
     border: none;
+    font-family: 'Roboto';
     font-size: 1rem;
 }
 #Tutorial {
-    height: 20px;
+    line-height: 20px;
     width: 116px;
     background-color: Red;
     border: none;
+    font-family: 'Roboto';
     font-size: 1rem;
 }
