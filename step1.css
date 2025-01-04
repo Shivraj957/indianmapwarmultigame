@@ -41,6 +41,10 @@ select optgroup {
     font-family: 'Roboto';
     font-size: 1rem;
 }
-button {
-    background-color: 'Red';
+#Submit1 {
+    height: 20px;
+    width: 164px;
+    background-color: Red;
+    border: none;
+    font-size: 1rem;
 }
