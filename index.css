@@ -9,7 +9,7 @@ h1 {
     color: white;
 }
 #StartGame {
-    text-align: center;
-    color: Red;
+    background-color: Red;
+    align-items: center;
     border: none;
 }
