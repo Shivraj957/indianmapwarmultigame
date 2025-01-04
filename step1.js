@@ -11,4 +11,4 @@ document.getElementById(Form1).addEventListener("submit"), function(event) {
     event.preventDefault();
     return;
             }
-});
+};
