@@ -10,4 +10,6 @@ h1 {
 }
 #StartGame {
     align-items: center;
+    background-color: 'Red';
+    border: none;
 }
