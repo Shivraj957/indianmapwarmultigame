@@ -28,6 +28,7 @@ form {
     font-size: 1rem;
 }
 select {
+    background: White;
     line-height: 20px;
     font-family: 'Roboto';
     font-size: 1rem;
