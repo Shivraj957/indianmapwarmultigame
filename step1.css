@@ -28,7 +28,7 @@ form {
     font-size: 1rem;
 }
 select {
-    background: White;
+    background: white;
     line-height: 20px;
     font-family: 'Roboto';
     font-size: 1rem;
@@ -44,7 +44,7 @@ select optgroup {
 #Submit1 {
     line-height: 20px;
     width: 164px;
-    background-color: Red;
+    background-color: red;
     border: none;
     font-family: 'Roboto';
     font-size: 1rem;
