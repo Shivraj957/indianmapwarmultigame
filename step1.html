@@ -6,7 +6,7 @@
 <body>
     <h1>Indian Subcontinent Wun</h1>
     <h2>Step 1: Enter Your Username and Select Your Region</h2>
-    <form id="Form1">
+    <form id="Form1" action="step2.html">
         <input type="text" id="Username" name="Username" placeholder="Username" autocomplete="on">
         <select id="Region" name="Region" class="Region" autocomplete="on">
             <option value="0" selected="selected" disabled>Select Your Region</option>
@@ -56,6 +56,6 @@
             <option value="PK">Pakistan</option>
             <option value="LK">Sri Lanka</option>
         </select>
-        <input type="submit" id="Submit1" name="Sumbit1" value="Continue" onclick="location.href='step2.html'">
+        <button type="submit" id="Submit1" name="Sumbit1">Continue</button>
     </form>
 </body>
