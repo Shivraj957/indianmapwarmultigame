@@ -3,9 +3,10 @@ body {
     margin: 3rem;
     font-family: 'Roboto';
 }
+div {
+    text-align: center;
+}
 img {
-    display: flex;
-    justify-content: center;
     height: 8rem;
     width: 8rem;
 }
