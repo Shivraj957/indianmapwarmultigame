@@ -4,6 +4,8 @@ body {
     font-family: 'Roboto';
 }
 img {
+    display: flex;
+    justify-content: center;
     height: 6rem;
     width: 6rem;
 }
