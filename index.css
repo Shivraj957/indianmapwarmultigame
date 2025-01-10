@@ -6,8 +6,8 @@ body {
 img {
     display: flex;
     justify-content: center;
-    height: 6rem;
-    width: 6rem;
+    height: 8rem;
+    width: 8rem;
 }
 h1 {
     font-size: 4rem;
