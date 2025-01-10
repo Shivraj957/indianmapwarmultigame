@@ -3,6 +3,10 @@ body {
     margin: 3rem;
     font-family: 'Roboto';
 }
+img {
+    height: 6rem;
+    width: 6rem;
+}
 h1 {
     font-size: 4rem;
     text-align: center;
